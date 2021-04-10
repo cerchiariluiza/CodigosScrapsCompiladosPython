@@ -1,0 +1,78 @@
+﻿Name;Creator;First public release;Latest stable version;Latest Release Date;Programming language;Cost (US$);Software license;Open source;CLI available;Minimum installed size
+Acme;Rob Pike;1993;Plan 9 and Inferno;;C;Free;LPL (OSI approved);Yes;;
+AkelPad;Alexey Kuznetsov, Alexander Shengalts;2003;4.9.8;18/07/2016;C;Free;BSD;Yes;;
+Alphatk;Vince Darley;1999;8.3.3;10/12/2004;;$40;Proprietary, with BSD components;No;;
+Aquamacs;David Reitter;2005;3.3;20/09/2016;C, Emacs Lisp;Free;GPL;Yes;;
+Atom;GitHub;2014;1.31.1;28/09/2018;HTML, CSS, JavaScript, C++;Free;MIT;Yes;No;~ 150 MB
+BBEdit;Rich Siegel;1992;12.1.3;11/04/2018;Objective-C, Objective-C++;$49.99;Proprietary;No;;
+Bluefish;Bluefish Development Team;1999;2.2.10;27/01/2017;C;Free;GPL;Yes;;
+Brackets;Adobe Systems;2012;1.12;05/02/2018;HTML, CSS, JavaScript, C++;Free;MIT;Yes;;
+Coda;Panic;2007;2.6.6;05/06/2017;Objective-C;$99;Proprietary;No;;
+ConTEXT;ConTEXT Project Ltd;1999;0.98.6;14/08/2009;Object Pascal (Delphi);Free;BSD;Yes;;
+Crimson Editor;Ingyu Kang, Emerald Editor Team;1999;3.72;14/05/2008;C++;Free;GPL;Yes;;
+CudaText;UVViewSoft (alexey_t, kvichans, matthias030);2015;1.57.0;25/06/2018;Object Pascal (Lazarus);Free;MPL 2.0;Yes;;8 MB Mac
+;;;;;;;;;;
+;;;;;;;;;;12 MB Win
+;;;;;;;;;;
+;;;;;;;;;;5 Mb *nix
+E Text Editor;Alexander Stigsen;2005;2.0.2;30/11/2010;;$46.95;Proprietary, with BSD components;No;;
+ed;Ken Thompson;1970;unchanged from original;;C;Free;?;Yes;Yes;0.04 MB
+EditPlus;Sangil Kim;1998;5.0;26/03/2018;C++;$35;Shareware;No;;
+Editra;Cody Precord;2007;0.7.20;05/01/2013;Python;Free;wxWindows license;Yes;;
+EmEditor;Emurasoft, Inc.;1997;18.64;08/02/2019;C++;149.99;Shareware;No;;
+epsilon;Lugaru Software;1984;13.06;06/12/2016;C;$250;Proprietary;No;;
+gedit;GNU Project;2000;3.28.2 (Win 3.20.1, Mac 3.2.6[1]);09/05/2018;C;Free;GPL;Yes;;
+Geany;Enrico Tröger;2005;1.33;25/02/2018;C, GTK2;Free;GPL;Yes;;
+GNU Emacs;Richard Stallman;1984;26.1;28/05/2018;C, Emacs Lisp;Free;GPL;Yes;Yes;11.6 MB
+JED;John E. Davis;1992;0.99-19;13/12/2009;C, S-Lang;Free;GPL;Yes;Yes;3.5 MB[2]
+jEdit;Slava Pestov;1998;5.4.0;18/03/2017;Java;Free;GPL;Yes;;
+JOE;Joseph Allen;1988;4.6;10/01/2018;C;Free;GPL;Yes;Yes;1.3 MB
+JOVE;Johnathon Payne;1983;4.16;19/03/1996;C;Free;GPL;Yes;;
+Kate;KDE Project;2000-12;17.12.3;08/03/2018;C++;Free;GPL;Yes;;
+KEDIT;Mansfield Software Group, Inc.;1983;1.6.1;05/12/2016;C;$129;Proprietary;No;Yes;1.1MB
+Komodo Edit;Activestate;2007 (open-sourced);10.2.3;11/07/2017;Python, JavaScript, Perl, Tcl, PHP, Ruby;Free;MPL, GPL, LGPL;Yes;;
+Komodo IDE;Activestate;2001;11.0.2;19/12/2017;Python, JavaScript, Perl, Tcl, PHP, Ruby;$295;Proprietary;No;;
+KWrite;KDE Project;2000;17.12.3;08/03/2017;C++;Free;GPL;Yes;;
+LE;Alexander V. Lukyanov;1997;1.16.3;06/06/2016;C++;Free;GPL;Yes;;
+Leo;Edward K. Ream;1996;5.7.2;07/05/2018;Python;Free;MIT;Yes;;
+Light Table;Chris Granger;2012;0.8.1;21/01/2016;ClojureScript;Free;MIT;Yes;;
+Metapad;Alexander Davidson;1999;3.6;28/05/2011;C;Free;GPL;Yes;;
+mg;Dave Conroy;1986;current;;C;Free;Public domain;Yes;;
+MinEd;Thomas Wolff;1992;2015.25;30/03/2015;C;Free;GPL;Yes;;
+MS-DOS Editor;Microsoft;1991;2.0.026;;;Bundled with MS-DOS, Microsoft Windows;Proprietary;No;No;
+Nano;Chris Allegretta;1999;3.0;09/09/2018;C;Free;GPL;Yes;Yes;0.6 MB
+ne;Sebastiano Vigna, Todd Lewis, Daniele Filaretti;1993;3.1.1;04/06/2017;C;Free;GPL;Yes;;
+NEdit;Mark Edel;1991;5.7;08/02/2017;C;Free;GPL;Yes;;
+Notepad;Microsoft;1985;6.0;;MASM (originally);Bundled with Microsoft Windows;Proprietary;No;;
+Notepad++;Don Ho;25/11/2003;7.5.6;19/03/2018;C++;Free;GPL;Yes;;
+Notepad2;Florian Balmer;2004-04;4.2.25;06/05/2011;C++;Free;BSD;Yes;;
+NoteTab;Eric Fookes, Fookes Software;1995;7.2;04/11/2014;Object Pascal (Delphi);Free, €39.95 Pro;Proprietary;No;;
+nvi;Keith Bostic;?;1.79;;C;Free;BSD;Yes;;
+Peppermint;Ioannis Zafeiropoulos;2014;1.4;07/12/2014;Objective-C, JavaScript;$14.99;Proprietary;No;;
+Pico;University of Washington;1992;4.64;;C;Free;AL2;Yes;;
+PolyEdit;PolySoft Solutions;1998;5.4;07/04/2010;;$27.95;Shareware;No;;
+PSPad;Jan Fiala;2002;5.0.0 (277);24/04/2018;Object Pascal (Delphi);Free;Proprietary;No;;
+Q10;Baara Estudio;2007;1.2.21;16/06/2011;?;Free;Proprietary;No;;
+RJ TextEd;Rickard Johansson;2004;13.10;07/05/2018;Object Pascal (Delphi);Free;Proprietary;No;;
+RText;Fifesoft;2003;2.6.3;30/04/2017;Java;Free;BSD;Yes;;
+Sam;Rob Pike;1980s (early);stable;;C;Free;LPL (OSI approved);Yes;;
+SciTE;Neil Hodgson;1999;4.0.5;10/04/2018;C++;$41.99 for macOS. free for others;HPND;Yes;;
+SlickEdit;SlickEdit, Inc.;1988;23.0.0;23/10/2018;C, Slick-C;$299;Proprietary;No;;
+Smultron;Peter Borg;2004;9.2.3;20/02/2017;Objective-C;$5;Proprietary;No;;
+Source Insight;Source Dynamics;?;4.0.0084;26/02/2017;Source Insight macro language;$239-$255;Proprietary;No;;
+SubEthaEdit;TheCodingMonkeys;2003;4.1;25/02/2015;;$35 commercial use;Proprietary;No;;
+Sublime Text;Jon Skinner;2008;3.1.1 (build 3176);14/05/2018;C++, Objective-C++ (macOS version), Python;$80;Proprietary;No;No;21 MB
+TED Notepad;Juraj Simlovic;2001;6.1.1;04/12/2016;C;Free;Freeware;No;;
+Textadept;Mitchell;2007;9.6;01/11/2017;C, Lua;Free;MIT;Yes;;
+TextEdit;Apple Inc.;2001;1.13;16/07/2017;;Free (also bundled with macOS);New BSD;Yes;;
+TextMate;MacroMates;10/10/2004;1.5.11;13/07/2012;Objective-C++;$53 (€39);Proprietary, with MIT components. Version 2 released under GPLv3;Yes (from version 2);;
+TextPad;Helios Software Solutions;1992;8.1.2;07/03/2017;;$30.00 (£16.50);Shareware;No;;
+TextWrangler;Bare Bones Software;2003;5.5.1;27/07/2016;;Free;Proprietary;No;;
+The SemWare Editor;Sammy Mitchell;1985-11;4.4;24/06/2005;C, SAL;$99;Proprietary;No;;
+UltraEdit;IDM Computer Solutions;1994;25.0;12/03/2018;C++;$99.95;Proprietary;No;;
+VEDIT;Ted Green, Greenview Data;1980;6.24.2;12/01/2015;Assembly, C;$89 standard, $239 Pro64;Proprietary;No;Yes;0.6 MB
+vi;Bill Joy;1976;3.7;;C;Free;BSD or CDDL;Yes;Yes;
+Vim;Bram Moolenaar;1991;8.0.1826;12/05/2018;C, Vim script;Free;GPL compatible;Yes;Yes;2.2 MB
+Visual Studio Code;Microsoft;2015;1.23;04/05/2018;JavaScript, C#, C++, JSON, HTML, PHP, Python, Markdown, TypeScript, CSS;Free;MIT;Yes;;180-200 MB
+XEmacs;Lucid Inc.;1991;21.4.22;30/01/2009;C, Emacs Lisp;Free;GPL;Yes;;
+Yi;Don Stewart;2005;0.14;25/07/2017;Haskell;Free;GPL;Yes;;

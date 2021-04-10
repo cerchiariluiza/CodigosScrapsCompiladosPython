@@ -1,0 +1,32 @@
+# Qualquer dificuldade quanto à instalação pode me acionar que lhe ajudo.
+
+Site do Projeto: https://scrapy.org
+
+Microsoft Visual C++ 14.0 está disponível em: 
+http://landinghub.visualstudio.com/visual-cpp-build-tools
+
+No Windows:
+pip install pypiwin32
+pip install scrapy
+
+No Linux depende da versão do Python instalada (se tiver mais de uma):
+sudo pip install scrapy
+ou
+sudo pip3 install scrapy
+ou
+sudo pip3.6 install scrapy
+
+E dependendo da distribuição (se não for baseada em Debian) a instalação será diferente.
+
+Talvez você ainda precise instalar mas algumas bibliotecas no Linux:
+sudo apt-get install python-twisted python-libxml2
+sudo apt-get install python-pyopenssl python-simplejson
+sudo apt-get install build-essential checkinstall 
+sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+
+
+Instalando Scapy através do código fonte:
+Efetue download do arquivo atual do scrapy e siga os passos (onde x.x.x é a versão que baixou):
+tar zxf scrapy-X.X.X.tar.gz
+cd scrapy-X.X.X
+python setup.py install

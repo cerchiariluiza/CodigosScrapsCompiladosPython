@@ -1,0 +1,3 @@
+Correção: O arquivo da biblioteca corrigido foi o utils.py em vez do converter.py. Após realizar a correção identifiquei que já existe a correção na página do projeto do GitHub mas a mesma ainda não foi aplicada ao projeto.
+
+Para trabalhar com HTML e XML atualize o arquivo utils.py da biblioteca com este que está em anexo à aula.
